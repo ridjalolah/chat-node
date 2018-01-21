@@ -1,0 +1,14 @@
+#zone_chat strong {
+    color: blue;
+    background-color: black;
+    padding: px;
+    margin-left: 100px;
+}
+
+#formulaire_chat{
+   padding: 15px;
+   height: 50px;
+display: flex;
+flex-direction : colum;
+}
+
